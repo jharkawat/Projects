@@ -1,6 +1,5 @@
 # VisGraph
-A software based on JGraphEd for visualising aswell as implementing standard graph based algorithm
-A software based on JGraphEd for visualising as well as implementing standard graph based algorithm
+A software based on JGraphEd for visualising as well as implementing standard graph based algorithm.
 
 #### Development Platform
 *Frontend*: Python with PyQt4 for GUI development
